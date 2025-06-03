@@ -24,7 +24,7 @@ No installation needed! Simply:
 Clone the repo:
 
 bash
-git clone https://github.com/your-username/timerush-stopwatch.git
+git [clone https://github.com/your-username/timerush-stopwatch.git](https://github.com/Purnima-sai/SCT_WD_2.git)
 Open index.html in your browser
 
 Or view it live: Demo Link (Add your GitHub Pages link here)
