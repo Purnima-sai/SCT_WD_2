@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Neon Stopwatch</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>TimeRush</h1>
+        <div class="stopwatch">
+            <div class="display" id="display">00:00:00.00</div>
+            <div class="controls">
+                <button class="start" id="startBtn">Start</button>
+                <button class="pause" id="pauseBtn" disabled>Pause</button>
+                <button class="reset" id="resetBtn" disabled>Reset</button>
+                <button class="lap" id="lapBtn" disabled>Lap</button>
+            </div>
+            <ul class="laps" id="lapsList"></ul>
+        </div>
+    </div>
+        <script src='./script.js'></script>
+
+</body>
+</html>
